@@ -5,7 +5,7 @@ export const seedData = [
     fullTitle: 'Monday',
     events: [
       { details: 'Get Groceries', edit: false },
-      { details: 'Carpool', edit: false }
+      { details: 'Play football', edit: false }
     ],
     active: true
   },
@@ -14,7 +14,7 @@ export const seedData = [
     abbvTitle: 'Tue',
     fullTitle: 'Tuesday',
     events: [
-      { details: 'Yoga/Gym', edit: false }
+      { details: 'Gym', edit: false }
     ],
     active: false
   },
